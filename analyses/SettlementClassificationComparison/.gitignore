@@ -1,0 +1,17 @@
+scWards.gdb/*
+rasters/*
+zonalStats.gdb/*
+Population/*
+etallyRaster.gdb/*
+etallyRaster.gdb.old/*
+VTS_NIGERIA.gdb/*
+check*.sql
+*.csv
+
+*.xlsx
+s*.sql 
+**/CheckStatus.sql
+RunZonalStatsInPar.bat
+*.pyc
+Population.zip
+LatestEtally.sql 
